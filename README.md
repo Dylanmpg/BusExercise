@@ -4,7 +4,7 @@
 This is an exercise I completed in Week 9 of MIT xPRO Professional Certificate In Coding: Full Stack Development With MERN course. This is a display of my early web development progress. In this exercise there is a map that you are able to see the bus stops between MIT and Harvard. Clicking on the button labeled "Bus Stops Between MIT and Harvard", in the top left corner of the page will take the marker to each bus stop along the way when travelling from MIT Campus to Harvard!
 
 <h2>Installation</h2>
-N/A
+Download the files found in the repo. Drag and drop index.html into a web browser to view.
 
 <h2>Usage</h2>
 N/A
